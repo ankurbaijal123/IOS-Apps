@@ -1,4 +1,0 @@
-The iOS Call Buddy app is designed to simulate incoming and outgoing phone calls on an iOS device using Apple's CallKit framework. 
-This app allows users to experience and test call functionalities without needing an actual phone call. By leveraging CallKit, 
-the Call Buddy app can create realistic call scenarios, helping developers and testers to validate call-related features in their applications. 
-This is particularly useful for developing and debugging apps that rely on telephony services, ensuring they work seamlessly in real-world situations.
